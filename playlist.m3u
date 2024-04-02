@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:1, tvg-logo="https://d8i23n05v6d5f.cloudfront.net/lives/1678162713daVIfp.png"group-title="PSI Channels",Mahar Bawdi
+#EXTVLCOPT:http-referer=https://www.pyoneplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://pp-live.b-cdn.net/bcdn_token=oz_WprgIwuaTA5llGU9rCnmPNW43RvXKsR-2ZIXAxcQ&expires=1712046156&token_path=%2FLiveApp%2F/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+#EXTINF:1, tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png"group-title="PSI Channels",MRTV 4
+#EXTVLCOPT:http-referer=https://www.pyoneplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://pp-live.b-cdn.net/bcdn_token=fBQ9vI_3gEA0Sxi-HFjZwrZ3z1Smk0cyCdmw1XuGTsk&expires=1712042839&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+#EXTINF:1, tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png"group-title="PSI Channels",Channel 7
+#EXTVLCOPT:http-referer=https://www.pyoneplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://pp-live.b-cdn.net/bcdn_token=TitV1NzLT_7Fzy9pL6-WDCJSV1p0mkdKTqdZiLCJUfA&expires=1712038129&token_path=%2FLiveApp%2F/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+#EXTINF:1, tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png"group-title="PSI Channels",Fortune TV
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+#EXTINF:1, tvg-logo="https://www.lyngsat.com/logo/tv/mm/mn_tv_mm.png"group-title="PSI Channels",mntv
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8
+#EXTINF:1, tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_9_mm.png"group-title="PSI Channels",channel 9 
+https://streammain.myanmartvchannels.com:999/website-channel9-stream/website-channel9-stream/chunks.m3u8?|refer=https://www.myanmartvchannels.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:1, tvg-logo="https://lyngsat.com/logo/tv/cc/channel-k-mm.png"group-title="PSI Channels",channel K 
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8?|refer=https://www.myanmartvchannels.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:1, tvg-logo="https://www.lyngsat.com/logo/tv/num/5-plus-mm.png"group-title="PSI Channels",5 PLUS
+https://streammain.myanmartvchannels.com:999/website-5plus-stream/website-5plus-stream/chunks.m3u8?|referer=https://www.myanmartvchannels.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Mahar_TV_logo.npg.png"group-title="PSI Channels",MAHAR
+https://tv.mahar.live/mahar/website.stream/mahar/website2/chunks.m3u8?|referer=https://www.myanmartvchannels.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:1, tvg-logo="https://www.lyngsat.com/logo/tv/yy/ytv-mm.png"group-title="PSI Channels",YTV
+https://streammain.myanmartvchannels.com:999/website-ytv-stream/website-ytv-stream/chunks.m3u8?|referer=https://www.myanmartvchannels.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:1, tvg-logo="https://w7.pngwing.com/pngs/287/149/png-transparent-axn-hd-logo-thumbnail.png"group-title="Movies Channels",AXN
+#EXTVLCOPT:http-referer=https://www.movie87hd.com/
+https://smart-tv.livedoomovies.com:4432/02_AXNHD_720p/chunklist.m3u8?|referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTM3U
+#EXTINF:1, tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl1.png"group-title="Sport Channels",Premier HD1
+#EXTVLCOPT:http-referer=https://www.movie87hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:1, tvg-logo="https://www.img01.xyz/assets/img/ch_logo/doomovie-epl2.png"group-title="Sport Channels",Premier HD2
+#EXTVLCOPT:http-referer=https://www.movie87hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:1, tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein1.png"group-title="Sport Channels",Bein Sport 1
+#EXTVLCOPT:http-referer=https://www.movie87hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Sky_Sports_logo_2020.svg"group-title="Sport Channels",Sky Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://claplivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddy3/premium414/tracks-v1a1/mono.m3u8
+#EXTINF:1, tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png"group-title="Sport Channels",Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://claplivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddy3/premium135/tracks-v1a1/mono.m3u8
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png"group-title="Sport Channels",USA Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://claplivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddh2/premium343/tracks-v1a1/mono.m3u8
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png"group-title="Sport Channels",Astro Super Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://claplivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddh2/premium123/tracks-v1a1/mono.m3u8
+#EXTINF:1, tvg-logo="https://mediadaily.biz/wp-content/uploads/2022/08/arena-sport-1-premium-slovenija-ok.jpg"group-title="Sport Channels",Arena Sport 1 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://claplivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddh1/premium134/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:1, tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-pptv.png"group-title="Thai Channels",PPTV HD
+#EXTVLCOPT:http-referer=https://www.movie87hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://smart-tv.livedoomovies.com:4432/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:1, tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-24u.png"group-title="Thai Channels",TRUE4U
+https://smart-tv.livedoomovies.com:4432/02_TRUE4U_480p/chunklist.m3u8?|referer=https://www.movie87hd.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+#EXTINF:1, tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-ch3.png"group-title="Thai Channels",3HD
+https://smart-tv.livedoomovies.com:4432/02_3HD_720p/chunklist.m3u8?|referer=https://www.movie87hd.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+#EXTINF:1, tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-mcot.png"group-title="Thai Channels",MCOT TV
+https://smart-tv.livedoomovies.com:4432/02_MCOTHD_720p/chunklist.m3u8?|referer=https://www.movie87hd.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+#EXTINF:1, tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-amarin.png"group-title="Thai Channels",AMARN HD
+https://smart-tv.livedoomovies.com:4432/02_AMARINHD_720p/chunklist.m3u8?|referer=https://www.movie87hd.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+#EXTINF:1, tvg-logo="https://www.img01.xyz/assets/img/ch_logo/hd-tpbs.png"group-title="Thai Channels",Thai PBS
+https://smart-tv.livedoomovies.com:4432/02_THAIPBS_720p/chunklist.m3u8?|referer=https://www.movie87hd.com/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+#EXTM3U
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/69/Discovery_HD_logo.PNG"group-title="Discovery Channels",Discovery HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://claplivehdplay.ru/
+https://salamus2023.onlinehdhls.ru/ddy1/premium313/tracks-v1a1/mono.m3u8
